@@ -1,5 +1,4 @@
 
-[![Spotify](https://JyeMathew.vercel.app/api/spotify)](https://open.spotify.com/user/JyeMathew)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jye-mathew" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/jye-mathew?trk=profile-badge">LinkedIn: Jye Mathew</a></div>
               
